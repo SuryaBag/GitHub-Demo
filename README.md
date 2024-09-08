@@ -1,3 +1,3 @@
 # GitHub-Demo
-This is a github demo
+This is a git &amp; github demo
 Welcome my github demo
